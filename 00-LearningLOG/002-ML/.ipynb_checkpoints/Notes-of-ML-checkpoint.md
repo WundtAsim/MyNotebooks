@@ -198,11 +198,4 @@ class Mymodel(nn.Module):#初始化你的模型，定义层
 
 	- evaluation metric
 
- - root mean squared error(RMSE)
-
-### 选修部分知识点
-
-- 第一步找一个model，一个model就是一个function set就是设置好了一个神经网络架构，但是其中的参数还没有确定 
-- 第二步，找一个function出来评判好坏
-- 第三步找一个最好的function
-- 
+​	- root mean squared error(RMSE)
