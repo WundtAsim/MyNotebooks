@@ -205,4 +205,7 @@ class Mymodel(nn.Module):#初始化你的模型，定义层
 - 第一步找一个model，一个model就是一个function set就是设置好了一个神经网络架构，但是其中的参数还没有确定 
 - 第二步，找一个function出来评判好坏
 - 第三步找一个最好的function
-- 
+
+关于预测宝可梦：
+
+- Loss function是一个function的function，衡量一个model的好坏也就是一组w，b的好坏。
